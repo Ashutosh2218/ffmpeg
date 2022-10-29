@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ffmpeg/static/css/main.76f328cf.css",
-    "main.js": "/ffmpeg/static/js/main.65fe7c98.js",
+    "main.js": "/ffmpeg/static/js/main.96af9e66.js",
     "static/js/787.d49b8641.chunk.js": "/ffmpeg/static/js/787.d49b8641.chunk.js",
     "index.html": "/ffmpeg/index.html",
     "main.76f328cf.css.map": "/ffmpeg/static/css/main.76f328cf.css.map",
-    "main.65fe7c98.js.map": "/ffmpeg/static/js/main.65fe7c98.js.map",
+    "main.96af9e66.js.map": "/ffmpeg/static/js/main.96af9e66.js.map",
     "787.d49b8641.chunk.js.map": "/ffmpeg/static/js/787.d49b8641.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76f328cf.css",
-    "static/js/main.65fe7c98.js"
+    "static/js/main.96af9e66.js"
   ]
 }
